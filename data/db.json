@@ -1,0 +1,10 @@
+{
+  "blogs": [
+    {
+      "title": "myBlog's ",
+      "body": "Hello  , I am Virat Nigam i made this project using React.js .\nTo Run this frontend  use [ npm start ] . \nAnd to fetch blogs use \n[ npx json-server --watch data/db.json --port 8000 ].\n",
+      "author": "Virat",
+      "id": 1
+    }
+  ]
+}
